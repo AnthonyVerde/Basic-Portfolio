@@ -147,8 +147,8 @@ h1 {
 
 #about-me-para a{
     font-family: Arial, Helvetica, sans-serif;
-    color: #999;
-    text-decoration: none;
+    color: #777;
+    text-decoration: underline;
 }
 
 #about-me-para :hover{
